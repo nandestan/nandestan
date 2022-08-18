@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandestan
 - 👀 I’m interested in developing and gaming
-- 🌱 I’m currently learning asp.net
+- 🌱 I’m currently learning ionic
 - 📫 How to reach me - nandy.viper@gmail.com
 
 <!---
