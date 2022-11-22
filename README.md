@@ -4,7 +4,7 @@
 - 📫 How to reach me - nandy.viper@gmail.com
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=nandestan&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=nandestan&theme=dark&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/nandestan/github-readme-stats)
 
