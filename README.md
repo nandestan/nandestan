@@ -6,7 +6,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nandestan&theme=highcontrast&show_icons=true&count_private=true)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=nandestan&repo=repo-name&show_owner=true)](https://github.com/nandestan/repo-name)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandestan)](https://github.com/nandestan/github-readme-stats)
+
 <!---
 nandestan/nandestan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
